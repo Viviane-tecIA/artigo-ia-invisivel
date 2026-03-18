@@ -1,6 +1,8 @@
 # 🧠 IA Invisível e o Segundo Cérebro: A Maestria do Prompt na Era dos Agentes 🚀
 
-![Banner de Impacto](1773847792195.jpg) 
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo">
+</p>(1773847792195.jpg)
 *> Nota: Esta imagem representa a fusão entre a inovação global e a essência da Mulher Divergente.*
 
 ---
